@@ -209,7 +209,7 @@ This ensures that the packet data is correctly interpreted regardless of the end
 
 ---
 
-## ## Using `socket.h` for Networking
+## Using `socket.h` for Networking
 
 ### Key Functions
 1. **`socket()`**
